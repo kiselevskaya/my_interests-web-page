@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: #FF4500;
+}
+body {
+  color:#006400;
+  background-color: #000000;
+}
+a {
+  color: #808000;
+}
+.RECSimg {
+  float: right;
+}
+#NB {
+  text-align: center;
+}
