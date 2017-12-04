@@ -1,0 +1,21 @@
+body {
+  color:#094D0A;
+  background-color: #090505;
+}
+header {
+  text-align: center;
+  font-variant: small-caps;
+  color: #E53D00;
+}
+a {
+  color: #CEAF04;
+}
+nav, aside {
+  color:#094D0A;
+}
+.RECSimg {
+  float: right;
+}
+#NB {
+  text-align: center;
+}
